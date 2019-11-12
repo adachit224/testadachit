@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="時間を設定">時間を設定</string>
+    <string name="textview">設定時間が表示されます</string>
+</resources>
